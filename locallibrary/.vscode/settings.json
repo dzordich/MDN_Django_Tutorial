@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "/Users/dzord/.local/share/virtualenvs/locallibrary-jdSk-HmN/bin/python"
+    "python.pythonPath": "/Users/dzord/.local/share/virtualenvs/locallibrary-jdSk-HmN/bin/python",
+    "python.linting.prospectorEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": ["---errors-only"]
 }
